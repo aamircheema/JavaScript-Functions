@@ -4,4 +4,4 @@ const addTwo = (a, b) => {
 
 
 }
-addTwo(12, 35);
+addTwo(15, 35);
