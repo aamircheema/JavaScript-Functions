@@ -1,3 +1,4 @@
+//adding two numbers
 const addTwo = (a, b) => {
     const result = a + b;
     console.log(result);
