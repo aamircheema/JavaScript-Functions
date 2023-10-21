@@ -5,7 +5,7 @@ const addTwo = (a, b) => {
 
 
 }
-addTwo(15, 35);
+addTwo(15, 35);// 50
 
 // Sum of an array
 let numbers = [15, 15, 25, 35];
@@ -18,7 +18,7 @@ const sumOfArray = (arr) => {
 };
 
 let result = sumOfArray(numbers);
-console.log(result);
+console.log(result);//90
 
         
     
